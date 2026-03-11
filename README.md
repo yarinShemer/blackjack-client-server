@@ -1,1 +1,1 @@
-# blackjack-client-server
+# HackathonAssignmentBlackijecky
